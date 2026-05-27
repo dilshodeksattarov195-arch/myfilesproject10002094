@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdonnect",
+        "uuid": 18952794,
+        "checksum": "895c4s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
